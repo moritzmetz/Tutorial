@@ -102,8 +102,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1075,
-                    "y": 164,
+                    "x": 1525,
+                    "y": 224,
                     "ioValues": []
                 }
             ],
@@ -309,13 +309,6 @@
                     ]
                 },
                 {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1084,
-                    "y": 223,
-                    "ioValues": []
-                },
-                {
                     "atomType": "Readme",
                     "name": "README",
                     "x": 1105,
@@ -323,6 +316,13 @@
                     "uniqueID": 650474,
                     "ioValues": [],
                     "readmeText": "The output of the program defines what will be displayed in the project thumbnail and what shape will be used for displaying changes over time. The output of the project should be connected to the output Atom. Each Molecule comes with one Output atom which cannot be deleted."
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1525,
+                    "y": 224,
+                    "ioValues": []
                 }
             ],
             "allConnectors": [
